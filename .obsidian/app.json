@@ -3,5 +3,9 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./_attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false
 }
