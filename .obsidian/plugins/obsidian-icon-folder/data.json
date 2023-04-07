@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarCirclePlay",
+      "FarCircleStop",
+      "FarCirclePause",
+      "FarCircle",
+      "RiChargingPile2Line"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "C++": "SiCplusplus",
+  "GPU硬件": "SiNvidia",
+  "OpenGL": "SiOpengl",
+  "python": "SiPython",
+  "图形引擎": "SiBlender",
+  "图形学": "SiYamahacorporation",
+  "rust": "SiRust",
+  "Unity": "SiUnity",
+  "vulkan": "SiVulkan",
+  "不活跃主题": "FarCirclePause",
+  "-最近": "FarCirclePlay",
+  "vulkan 1": "SiVulkan"
+}

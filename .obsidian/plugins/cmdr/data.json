@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "find-unlinked-files:find-empty-files",
+      "icon": "box-select",
+      "name": "Find orphaned files and broken links: Find empty files",
+      "mode": "any"
+    },
+    {
+      "id": "find-unlinked-files:find-unlinked-files",
+      "icon": "alarm-clock-off",
+      "name": "Find orphaned files and broken links: Find orphaned files",
+      "mode": "any"
+    },
+    {
+      "id": "find-unlinked-files:delete-unlinked-files",
+      "icon": "axe",
+      "name": "Find orphaned files and broken links: Delete orphaned files with certain extension. See README",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
