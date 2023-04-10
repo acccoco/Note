@@ -1,4 +1,11 @@
 
+UE 资源：
+
+* [各种容器的用法指引，教程性质](https://docs.unrealengine.com/5.1/zh-CN/array-containers-in-unreal-engine/)
+* [API 文档，用于查询](https://docs.unrealengine.com/5.1/en-US/API/Runtime/Core/Containers/TArray/)
+
+
+
 ```cardlink
 url: https://imzlp.com/posts/20425/
 title: "UEC++与标准C++的区别与联系"
