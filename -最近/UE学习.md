@@ -4,7 +4,7 @@ UE 资源：
 * [各种容器的用法指引，教程性质](https://docs.unrealengine.com/5.1/zh-CN/array-containers-in-unreal-engine/)
 * [API 文档，用于查询](https://docs.unrealengine.com/5.1/en-US/API/Runtime/Core/Containers/TArray/)
 
-
+UObject：通过特定的方法创建，有 GC 来回收
 
 ```cardlink
 url: https://imzlp.com/posts/20425/
