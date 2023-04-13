@@ -19,3 +19,10 @@ git merge <upstream>/<master>
 # 编辑提交记录
 git rebase ...
 ```
+
+修改全局的 .gitignore
+```shell
+git config --global core.excludesFile '~/.gitignore'
+```
+
+
