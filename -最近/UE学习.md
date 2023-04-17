@@ -35,3 +35,14 @@ image: //i2.hdslb.com/bfs/archive/01890cef2c1f27c83e2f8d19106a6fcf0220a1fa.png@1
 ```
 
 Actor，Component，StaticMesh, UObject
+
+蓝图和 C++ 代码的协作，非常好的视频：
+
+```cardlink
+url: https://www.youtube.com/watch?v=VMZftEVDuCE
+title: "Blueprints vs. C++: How They Fit Together and Why You Should Use Both"
+description: "It's not an either/or decision. Learn what makes C++ and Blueprints different, what they have in common, and how to use them together effectively. We'll also..."
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/80237066/img/favicon_32x32.png
+image: https://i.ytimg.com/vi/VMZftEVDuCE/maxresdefault.jpg
+```
