@@ -4,6 +4,11 @@
       "type": "file",
       "title": "本子",
       "path": "最近/本子.md"
+    },
+    {
+      "type": "file",
+      "title": "vim-cheatsheet",
+      "path": "不活跃主题/日常使用/vim-cheatsheet.pdf"
     }
   ]
 }
