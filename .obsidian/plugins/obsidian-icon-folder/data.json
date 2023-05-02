@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarCirclePlay",
-      "FarCircleStop",
-      "FarCirclePause",
-      "FarCircle",
-      "RiChargingPile2Line"
+      "SiCodacy",
+      "SiLlvm",
+      "SiMongodb",
+      "SiGit",
+      "SiHaskell"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,13 @@
   "Unity": "SiUnity",
   "vulkan": "SiVulkan",
   "不活跃主题": "FarCirclePause",
-  "-最近": "FarCirclePlay"
+  "-最近": "FarCirclePlay",
+  "不活跃主题/Unix编程": "SiSololearn",
+  "不活跃主题/PySide2": "SiQt",
+  "不活跃主题/linux系统相关": "SiLinux",
+  "不活跃主题/Haskell": "SiHaskell",
+  "不活跃主题/Git": "SiGit",
+  "不活跃主题/数据库": "SiMongodb",
+  "不活跃主题/编译链接调试": "SiLlvm",
+  "日常使用": "SiCodacy"
 }
