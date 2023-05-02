@@ -1,6 +1,7 @@
 {
   "accentColor": "#007acc",
   "theme": "moonstone",
-  "interfaceFontFamily": "Consolas,微软雅黑",
-  "cssTheme": ""
+  "interfaceFontFamily": "Source Code Pro,微软雅黑,Consolas",
+  "cssTheme": "",
+  "monospaceFontFamily": ""
 }
