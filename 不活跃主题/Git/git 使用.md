@@ -58,3 +58,16 @@ git config --global core.quotepath false
 ![[_attachments/1651816169225-773fac34-8907-4be4-bc68-1f97cc467c34.png | 399]]
 
 > 注：使用 `git rebase -i <commit-id>` 命令，进行适当的调整，可以让多个「重演」合并在一起。
+
+
+## submodule
+
+主项目会和 submodule 的某个 submit 绑定。如果切换了 submodule 的 submit 位置，那么在主项目下执行 `git status` 时可能会出现以下内容：
+
+```shell
+modified: submodule (new commits)
+```
+
+此时，只需要用 `git submodule update` 即可恢复 submodule 的 submit 位置。
+
+另外，执行 `git submodule status` 可以查看 submodule 的 submit 位置。
