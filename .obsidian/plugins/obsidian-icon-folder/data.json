@@ -19,7 +19,7 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    "iconInTabsEnabled": false
   },
   "C++": "SiCplusplus",
   "GPU硬件": "SiNvidia",
