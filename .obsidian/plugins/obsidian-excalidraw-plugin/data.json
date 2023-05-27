@@ -63,7 +63,7 @@
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "fieldSuggester": true,
-  "compatibilityMode": false,
+  "compatibilityMode": true,
   "drawingOpenCount": 0,
   "library": "deprecated",
   "library2": {

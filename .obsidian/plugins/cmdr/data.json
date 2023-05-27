@@ -2,7 +2,20 @@
   "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current",
+      "icon": "activity",
+      "name": "Excalidraw: 新建绘图 - 于当前面板",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate",
+      "icon": "activity",
+      "name": "Excalidraw: 新建绘图 - 于新面板",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [
     {
