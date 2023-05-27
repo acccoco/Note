@@ -1,7 +1,9 @@
 {
   "accentColor": "#007acc",
   "theme": "moonstone",
-  "interfaceFontFamily": "Source Code Pro,微软雅黑,Consolas",
-  "cssTheme": "Things",
-  "monospaceFontFamily": ""
+  "interfaceFontFamily": "Source Code Pro,Consolas,Microsoft YaHei",
+  "cssTheme": "",
+  "monospaceFontFamily": "Source Code Pro,Consolas",
+  "textFontFamily": "Source Code Pro,Consolas,Microsoft YaHei",
+  "baseFontSize": 15
 }
