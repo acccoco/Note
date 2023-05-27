@@ -17,8 +17,8 @@ $$
 
 $$
 L_o 
-= \int_{H^2}g_{Direct}(\omega_i)\; fr\; L_i\; \cos\theta_i\; d\omega_i 
-+ \int_{H^2}g_{Indirect}(\omega_i)\; fr\; L_i\; \cos\theta_i\; d\omega_i 
+= \int_{H^2}g_{\cal Direct}(\omega_i)\; fr\; L_i\; \cos\theta_i\; {\rm d}\omega_i 
++ \int_{H^2}g_{\rm Indirect}(\omega_i)\; fr\; L_i\; \cos\theta_i\; {\rm d}\omega_i 
 $$
 
 其中
