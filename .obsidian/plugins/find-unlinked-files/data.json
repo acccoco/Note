@@ -13,7 +13,9 @@
   "fileTypesToDelete": [
     "jpg",
     "jpeg",
-    "png"
+    "png",
+    "drawio",
+    "svg"
   ],
   "ignoreFileTypes": true,
   "ignoreDirectories": true,
